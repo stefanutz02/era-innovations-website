@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                      http://www.google.com/schemas/sitemap-image/1.1
+                      http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- ========================================================== -->
+  <!-- Homepage                                                   -->
+  <!-- ========================================================== -->
+  <url>
+    <loc>https://erainnovations.ro/</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/" />
+    <image:image>
+      <image:loc>https://erainnovations.ro/assets/og-image.webp</image:loc>
+      <image:title>ERA Innovations — Software custom din Piatra-Neamț</image:title>
+      <image:caption>Software custom, web și mobile pentru afaceri din România</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://erainnovations.ro/assets/logo.png</image:loc>
+      <image:title>ERA Innovations logo</image:title>
+    </image:image>
+  </url>
+
+  <!-- ========================================================== -->
+  <!-- Core pages                                                 -->
+  <!-- ========================================================== -->
+  <url>
+    <loc>https://erainnovations.ro/about</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/about?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/about" />
+  </url>
+
+  <url>
+    <loc>https://erainnovations.ro/services</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/services?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/services" />
+  </url>
+
+  <url>
+    <loc>https://erainnovations.ro/work</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/work" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/work?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/work" />
+    <image:image>
+      <image:loc>https://erainnovations.ro/assets/og-image.webp</image:loc>
+      <image:title>Portofoliu ERA Innovations</image:title>
+      <image:caption>Proiecte construite cu metodă: aplicații web, mobile și SaaS</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://erainnovations.ro/contact</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/contact?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/contact" />
+  </url>
+
+  <!-- ========================================================== -->
+  <!-- Blog                                                       -->
+  <!-- ========================================================== -->
+  <url>
+    <loc>https://erainnovations.ro/blog</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/blog?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/blog" />
+  </url>
+
+  <!-- Individual blog posts -->
+  <url>
+    <loc>https://erainnovations.ro/blog/cat-costa-website-2026</loc>
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/blog/cat-costa-website-2026" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/blog/cat-costa-website-2026?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/blog/cat-costa-website-2026" />
+  </url>
+
+  <!-- ========================================================== -->
+  <!-- Inovații (innovation pages)                                -->
+  <!-- ========================================================== -->
+  <url>
+    <loc>https://erainnovations.ro/inovatii/era-cloud</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/inovatii/era-cloud" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/inovatii/era-cloud?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/inovatii/era-cloud" />
+  </url>
+
+  <url>
+    <loc>https://erainnovations.ro/inovatii/era-education</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/inovatii/era-education" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/inovatii/era-education?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/inovatii/era-education" />
+  </url>
+
+  <url>
+    <loc>https://erainnovations.ro/inovatii/era-real-estate</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/inovatii/era-real-estate" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/inovatii/era-real-estate?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/inovatii/era-real-estate" />
+  </url>
+
+  <url>
+    <loc>https://erainnovations.ro/inovatii/era-finance</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/inovatii/era-finance" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/inovatii/era-finance?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/inovatii/era-finance" />
+  </url>
+
+  <url>
+    <loc>https://erainnovations.ro/inovatii/paperless-edu</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://erainnovations.ro/inovatii/paperless-edu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://erainnovations.ro/inovatii/paperless-edu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://erainnovations.ro/inovatii/paperless-edu" />
+  </url>
+
+  <!-- ========================================================== -->
+  <!-- Legal                                                      -->
+  <!-- ========================================================== -->
+  <url>
+    <loc>https://erainnovations.ro/legal/termeni</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+  <url>
+    <loc>https://erainnovations.ro/legal/confidentialitate</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+</urlset>
