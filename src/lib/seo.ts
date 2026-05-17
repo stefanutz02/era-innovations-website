@@ -61,17 +61,18 @@ export function updateSEO(config: SEOConfig): void {
   const setLink = (rel: string, href: string, extraAttrs?: Record<string, string>) => {
     let selector = `link[rel="${rel}"]`;
     if (extraAttrs?.hreflang) selector += `[hreflang="${extraAttrs.hreflang}"]`;
-    
-    let el = document.querySelector<HTMLLinkElement>(selector);
-    if (!el) {
-      el = document.createElement("link");
-      el.rel = rel;
+
+    let existing = document.querySelector<HTMLLinkElement>(selector);
+    if (!existing) {
+      const created = document.createElement("link");
+      created.rel = rel;
       if (extraAttrs) {
-        Object.entries(extraAttrs).forEach(([k, v]) => el.setAttribute(k, v));
+        Object.entries(extraAttrs).forEach(([k, v]) => created.setAttribute(k, v));
       }
-      document.head.appendChild(el);
+      document.head.appendChild(created);
+      existing = created;
     }
-    el.href = href;
+    existing.href = href;
   };
 
   document.querySelectorAll('meta[data-dynamic-seo]').forEach(el => el.remove());
